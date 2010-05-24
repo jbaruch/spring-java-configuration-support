@@ -1,5 +1,5 @@
 org.springframework.config.java.support.ConfigurationSupport Next Generation:
 1. The only method left is Object getObject(FactoryBean) that converts FactoryBeans to real beans.
 2. Injectable by @Autowired annotation into your @Configuration class.
-Javadoc of the original class - http://static.springsource.org/spring-javaconfig/docs/1.0.0.M4/javadoc-api/org/springframework/config/java/support/ConfigurationSupport.html
+Javadoc of the original class - http://tinyurl.com/28pqho2
 Usage example - http://gist.github.com/412411
