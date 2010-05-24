@@ -3,3 +3,5 @@ org.springframework.config.java.support.ConfigurationSupport Next Generation:
 2. Injectable by @Autowired annotation into your @Configuration class.
 Javadoc of the original class - http://tinyurl.com/28pqho2
 Usage example - http://gist.github.com/412411
+
+Make no mistake, all the code is written by Chris Beams, of course.
